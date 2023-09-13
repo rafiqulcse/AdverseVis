@@ -1,0 +1,11 @@
+geopandas>=0.13.2
+gsppy>=1.1
+matplotlib>=3.7.2
+mlxtend>=0.22.0
+pandas>=2.0.3
+prefixspan>=0.5.2
+seaborn>=0.12.2
+streamlit>=1.26.0
+pyautogui>=0.9.54
+openpyxl
+
